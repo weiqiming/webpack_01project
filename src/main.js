@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 import Element from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
-import '@/styles/index.scss'
+import '@/styles/index.css'
 
 // 把element-UI框架注册到Vue的框架上面,这样全局范围内都可以使用
 Vue.use(Element)
